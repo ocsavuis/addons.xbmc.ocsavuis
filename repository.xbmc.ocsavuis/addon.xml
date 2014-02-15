@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.xbmc.ocsavuis" name="Repositorio Ocsavuis" version="1.0.0" provider-name="Miguel BF">
+ <extension point="xbmc.addon.repository" name="Maisfutebol Add-on Repository">
+  <info compressed="false">https://github.com/ocsavuis/repository.xbmc.ocsavuis/blob/master/addons.xml</info>
+  <checksum>https://github.com/ocsavuis/repository.xbmc.ocsavuis/blob/master/addons.xml.md5</checksum>
+  <datadir zip="false">https://github.com/ocsavuis/repository.xbmc.ocsavuis/</datadir>
+ </extension>
+ <extension point="xbmc.addon.metadata">
+  <summary>Repositório Ocsavuis</summary>
+  <description>Repositorio Ocsavuis</description>
+  <disclaimer></disclaimer>
+  <platform>all</platform>
+ </extension>
+</addon>
