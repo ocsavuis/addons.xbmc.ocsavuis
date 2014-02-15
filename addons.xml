@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.live.streams.ocs"
        name="SimpleLiveStreams"
-       version="1.0.3"
+       version="1.0.4"
        provider-name="ocsavuis">
   <requires>
     <import addon="xbmc.python" version="2.0"/>
